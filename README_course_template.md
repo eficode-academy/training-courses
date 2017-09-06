@@ -20,6 +20,8 @@ Lastly, the biggest factor determining if a workshop will be successful is prepa
 
 > **NOTE:** Setting up labs this way makes it really easy for a workshop presenter to say, "Everyone, we're going to run through the Workshop Setup now." Then, after explaining the lab, and while everyone else is running through it, you can go around and help atttendees that need additional help.
 
+Remember to encurrange people to give feedback, either by making issues on your repository or by taking a survey after the course.
+
 ## What Next?
 
 If this lab was too advanced, you might want to check out:
