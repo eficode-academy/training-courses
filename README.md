@@ -21,4 +21,4 @@ Look at [the campaign page](https://docs.google.com/document/d/1FBguFkS8Apj-z9gS
 Just go ahead take an issue and start ironing out a solution. If you are uncertain about your change just make a pull request on it, asking for a review by a colleague. If you do not know who to point to then ping Sofus or Mike.
 
 ## How to make new material
-We have made a  [Course creation guide](README_course_template.md) that both have the requirements and templates for making a new course.
+We have made a  [Course creation guide](course_template.md) that both have the requirements and templates for making a new course.
